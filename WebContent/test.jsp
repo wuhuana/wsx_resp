@@ -6,12 +6,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Insert title here</title>
 	<style type="text/css">
-		#all{
-			width:1200px;
-			height:1100px;
-			text-align: center;
-			border:2px solid;
-		}
 		tr{
 			height:30px;
 		}
